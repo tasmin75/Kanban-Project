@@ -75,6 +75,7 @@ https://master--next-js-kanban.netlify.app/
 
 ## Data Structure
 
+```
 List =[
     {
         id: 'uuidv4',
@@ -91,3 +92,4 @@ List =[
         ]
     }
 ]
+```
